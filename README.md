@@ -1,5 +1,5 @@
-# Raspberry-Pi-AI-Assistant
-IOT project to build a Raspberry Pi AI Assistant
+# Raspberry Pi Google AI Assistant
+IOT project to build a Raspberry Pi Google AI Assistant
 
 # Abstract
 The main aim of this project is to build a Raspberry Pi voice-controlled AI Assistant. It’s the age of AI, and we all are swarmed away with the number of mesmerizing open-source AI projects getting in the market every day. They are one of the driving factors for business growth. 
