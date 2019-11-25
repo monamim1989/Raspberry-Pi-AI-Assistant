@@ -1,4 +1,4 @@
-# Raspberry Pi Google AI Assistant
+# Raspberry Pi Google AI Assistant Using Push-to-talk Feature
 IOT project to build a Raspberry Pi Google AI Assistant
 
 # Abstract
