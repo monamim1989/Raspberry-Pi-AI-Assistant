@@ -12,4 +12,9 @@ USB Microphone <br/>
 Speaker <br/>
 WiFi <br/>
 
+# Result
+The Google AI Assistant that we build using Raspberry Pi functions as expected. It can successfully respond to all queries. It can understand the context of our query and react in an informed or smart way. This is important as it gives voice control a lot more power and moves it on from only reacting to specific phrases or commands.
+
 # Demo
+We have sent the video recording of project demonstration via email. The recording files are big in size, therefore, cannot be uploaded in github. <br />
+![Project Setup](Project SetUp.jpg)
