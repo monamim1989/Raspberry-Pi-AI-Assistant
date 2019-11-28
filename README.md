@@ -17,4 +17,4 @@ The Google AI Assistant that we build using Raspberry Pi functions as expected. 
 
 # Demo
 We have sent the video recording of project demonstration via email. The recording files are big in size, therefore, cannot be uploaded in github. <br />
-![Project Setup](Project SetUp.png)
+![Project Setup](SetUp.png)
