@@ -81,8 +81,8 @@ This command will generate a URL. We need to copy this URL and open in web brows
 “credentials saved: /home/pi/.config/google-oauthlib-tool/credentials.json” <br />
 Now, we need to obtain and note down our project id and device-model-id. We can check project id from ‘Project Settings’ inside https://console.actions.google.com and we can get device-model-id from ‘Device Registration’ inside https://console.actions.google.com
 <br />
-Our project details are as below:
-Project id - raspberry-pi-ai-assistan-5532c 
+Our project details are as below:<br />
+Project id - raspberry-pi-ai-assistan-5532c <br />
 Device-id - raspberry-pi-ai-assistan-5532c-pi3-google-assistant-c1xp98<br />
 Using these data, we can type the following command to talk to Google Assistant.
 ```
